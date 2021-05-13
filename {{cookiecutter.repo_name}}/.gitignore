@@ -14,7 +14,7 @@ reports/*
 !reports/.gitkeep
 
 data/*
-data/**/*
+# data/**/*
 !data/.gitkeep
 !data/external/
 !data/external/*
